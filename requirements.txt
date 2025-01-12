@@ -1,0 +1,4 @@
+torch==2.5.1
+einops==0.8.0
+zetascale==2.7.9
+mgqa==0.0.5
